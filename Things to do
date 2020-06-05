@@ -1,0 +1,9 @@
+- Create menu (menu inludes possibly - New Game/Exit/Score/One Player/Two Players)
+- Improve random tile generator
+- Create tile algorithm to fix tile functionality
+- Implement scoring functionality
+- Refactor code
+- Implement limtied duration per turn
+- Design database and use entity framework to create database to keep high score 
+- Implement addition of second player
+- Enchance GUI
